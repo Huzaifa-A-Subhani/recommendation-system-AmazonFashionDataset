@@ -1,6 +1,6 @@
 # Amazon Fashion Recommendation System
 
-A collaborative filtering(both User-based and Item-based), content-based and hybrid recommendation system built on the [Amazon Reviews (2018)](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/) dataset (`AMAZON_FASHION_5.jsonl`). Includes a Flask API and a static web UI.
+A collaborative filtering(both User-based and Item-based), content-based and hybrid recommendation systems built for the comparitive study of different similarity and prediction functions with the enhanced functionality of reasoning. The dataset used is a chunk from Fashion segment of Amazon's 233 million dataset [Amazon Reviews (2018)](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/) (`AMAZON_FASHION_5.jsonl`). Includes a Flask API and a static web UI for the ease of understanding.
 
 ---
 
